@@ -1,0 +1,129 @@
+{
+  "Cases": [
+    {
+      "Cases": [
+        {
+          "Name": "subtarea1.01",
+          "Weight": 10
+        }
+      ],
+      "Name": "subtarea1"
+    },
+    {
+      "Cases": [
+        {
+          "Name": "subtarea2.01",
+          "Weight": 12.5
+        },
+        {
+          "Name": "subtarea2.02",
+          "Weight": 12.5
+        }
+      ],
+      "Name": "subtarea2"
+    },
+    {
+      "Cases": [
+        {
+          "Name": "subtarea3.01",
+          "Weight": 2.5
+        },
+        {
+          "Name": "subtarea3.02",
+          "Weight": 2.5
+        },
+        {
+          "Name": "subtarea3.03",
+          "Weight": 2.5
+        },
+        {
+          "Name": "subtarea3.04",
+          "Weight": 2.5
+        },
+        {
+          "Name": "subtarea3.05",
+          "Weight": 2.5
+        },
+        {
+          "Name": "subtarea3.06",
+          "Weight": 2.5
+        },
+        {
+          "Name": "subtarea3.07",
+          "Weight": 2.5
+        },
+        {
+          "Name": "subtarea3.08",
+          "Weight": 2.5
+        },
+        {
+          "Name": "subtarea3.09",
+          "Weight": 2.5
+        },
+        {
+          "Name": "subtarea3.10",
+          "Weight": 2.5
+        }
+      ],
+      "Name": "subtarea3"
+    },
+    {
+      "Cases": [
+        {
+          "Name": "subtarea4.01",
+          "Weight": 4
+        },
+        {
+          "Name": "subtarea4.02",
+          "Weight": 4
+        },
+        {
+          "Name": "subtarea4.03",
+          "Weight": 4
+        },
+        {
+          "Name": "subtarea4.04",
+          "Weight": 4
+        },
+        {
+          "Name": "subtarea4.05",
+          "Weight": 4
+        },
+        {
+          "Name": "subtarea4.06",
+          "Weight": 4
+        },
+        {
+          "Name": "subtarea4.07",
+          "Weight": 4
+        },
+        {
+          "Name": "subtarea4.08",
+          "Weight": 4
+        },
+        {
+          "Name": "subtarea4.09",
+          "Weight": 4
+        },
+        {
+          "Name": "subtarea4.10",
+          "Weight": 4
+        }
+      ],
+      "Name": "subtarea4"
+    }
+  ],
+  "Limits": {
+    "ExtraWallTime": "0s",
+    "MemoryLimit": 67108864,
+    "OutputLimit": 64000,
+    "OverallWallTimeLimit": "1m0s",
+    "TimeLimit": "1s"
+  },
+  "Slow": false,
+  "Validator": {
+    "Name": "token",
+    "Tolerance": 1e-9,
+    "GroupScorePolicy": "sum-if-not-zero"
+  }
+}

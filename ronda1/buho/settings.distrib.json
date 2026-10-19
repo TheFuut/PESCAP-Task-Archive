@@ -1,0 +1,21 @@
+{
+  "cases": {
+    "statement_001": {
+      "in": "5 6 3\n1 2 4\n2 3 7\n1 3 10\n3 4 2\n4 5 8\n2 5 6\n1 5\n1 4\n3 5",
+      "out": "6\n7\n7",
+      "weight": 1
+    }
+  },
+  "limits": {
+    "ExtraWallTime": "0s",
+    "MemoryLimit": 268435456,
+    "OutputLimit": 64000048,
+    "OverallWallTimeLimit": "1m0s",
+    "TimeLimit": "1s"
+  },
+  "validator": {
+    "name": "token",
+    "group_score_policy": "sum-if-not-zero",
+    "tolerance": 1e-9
+  }
+}
