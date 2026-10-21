@@ -1,0 +1,21 @@
+{
+  "cases": {
+    "statement_001": {
+      "in": "5 20\n3 4 6 2 8",
+      "out": "Dulces para todos",
+      "weight": 1
+    }
+  },
+  "limits": {
+    "ExtraWallTime": "0s",
+    "MemoryLimit": 268435456,
+    "OutputLimit": 64000048,
+    "OverallWallTimeLimit": "1m0s",
+    "TimeLimit": "1s"
+  },
+  "validator": {
+    "name": "token",
+    "group_score_policy": "sum-if-not-zero",
+    "tolerance": 1e-9
+  }
+}

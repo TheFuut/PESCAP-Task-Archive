@@ -1,0 +1,31 @@
+{
+  "cases": {
+    "statement_001": {
+      "in": "5 3\n\u003c\u003e\u003c\u003e\u003c\n\u003c\u003e\u003c",
+      "out": "1",
+      "weight": 1
+    },
+    "statement_002": {
+      "in": "3 1\n\u003e\u003e\u003e\n\u003c",
+      "out": "0",
+      "weight": 1
+    },
+    "statement_003": {
+      "in": "6 3\n\u003c\u003c\u003c\u003c\u003c\u003c\n\u003c\u003c\u003c",
+      "out": "2",
+      "weight": 1
+    }
+  },
+  "limits": {
+    "ExtraWallTime": "0s",
+    "MemoryLimit": 268435456,
+    "OutputLimit": 64000048,
+    "OverallWallTimeLimit": "1m0s",
+    "TimeLimit": "1s"
+  },
+  "validator": {
+    "name": "token",
+    "group_score_policy": "sum-if-not-zero",
+    "tolerance": 1e-9
+  }
+}

@@ -32,8 +32,27 @@ Según el problema, el enunciado puede incluir descripción, formato de entrada 
 
 ## Rondas disponibles
 
-- **Ronda 1:** [ver problemas](ronda1/)
-- **Ronda 2:** [ver problemas](ronda2/)
+### Ronda 1
+
+| Problema | Archivos del problema | Resolver en OmegaUp |
+| --- | --- | --- |
+| Cuadrado | [Ver archivos](ronda1/cuadrado/) | [Abrir problema](https://omegaup.com/arena/problem/Square/) |
+| Último dígito | [Ver archivos](ronda1/ultimodigito/) | [Abrir problema](https://omegaup.com/arena/problem/Ultimo-Digito-OMM/) |
+| Guionista | [Ver archivos](ronda1/guionista/) | [Abrir problema](https://omegaup.com/arena/problem/guionista/) |
+| Entrenamiento | [Ver archivos](ronda1/entrenamiento/) | [Abrir problema](https://omegaup.com/arena/problem/entrenamiento-de-leo/) |
+| Búho | [Ver archivos](ronda1/buho/) | [Abrir problema](https://omegaup.com/arena/problem/Buho/) |
+| Influencer | [Ver archivos](ronda1/influencer/) | [Abrir problema](https://omegaup.com/arena/problem/influencer/) |
+
+### Ronda 2
+
+| Problema | Archivos del problema | Resolver en OmegaUp |
+| --- | --- | --- |
+| Piñata | [Ver archivos](ronda2/piñata/) | [Abrir problema](https://omegaup.com/arena/problem/Dulces-para-todos/) |
+| Alebrijes | [Ver archivos](ronda2/alebrijes/) | [Abrir problema](https://omegaup.com/arena/problem/Alebrijes/) |
+| Ademanes | [Ver archivos](ronda2/ademanes/) | [Abrir problema](https://omegaup.com/arena/problem/Ademanes/) |
+| Academia | [Ver archivos](ronda2/academia/) | [Abrir problema](https://omegaup.com/arena/problem/Academia/) |
+| Arqueólogo | [Ver archivos](ronda2/arqueologo/) | [Abrir problema](https://omegaup.com/arena/problem/Arqueologo/) |
+| Selección Mexicana | [Ver archivos](ronda2/seleccionmexicana/) | [Abrir problema](https://omegaup.com/arena/problem/Seleccion-Mexicana/) |
 
 También puedes descargar cada ronda por separado desde la sección de [releases](../../releases).
 
